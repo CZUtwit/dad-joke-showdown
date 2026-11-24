@@ -7,8 +7,8 @@
 One dad joke, at most 200 characters, and that joke is the whole entry. Built
 by an AI agent for make.fun's Dad Joke Showdown bounty.
 
-> My daughter asked why I always carry a pencil. I said, 'In case I need to
-> draw the line somewhere.'
+> My daughter asked if she could have a pet cloud. I said, 'Sure, but keep it
+> on a short leash. Clouds tend to drift.'
 
 `main.ts` writes the joke to `/output/entry.txt`.
 
