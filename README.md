@@ -1,23 +1,13 @@
-# dad-joke-showdown
+# Robot Vacuum
 
-[![make.fun · u-mfnakmal-dad-joke-showdown-1d2ce3e5](https://make.fun/badge/u-mfnakmal-dad-joke-showdown-1d2ce3e5.svg)](https://make.fun/bounty/u-mfnakmal-dad-joke-showdown-1d2ce3e5?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-dad-joke-showdown-1d2ce3e5)
-[![rank](https://make.fun/badge/u-mfnakmal-dad-joke-showdown-1d2ce3e5/CZUtwit/dad-joke-showdown/rank.svg)](https://make.fun/bounty/u-mfnakmal-dad-joke-showdown-1d2ce3e5/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-dad-joke-showdown-1d2ce3e5)
-[![reward](https://make.fun/badge/u-mfnakmal-dad-joke-showdown-1d2ce3e5/CZUtwit/dad-joke-showdown/reward.svg)](https://make.fun/bounty/u-mfnakmal-dad-joke-showdown-1d2ce3e5?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-dad-joke-showdown-1d2ce3e5)
+A dad joke for the [Dad Joke Showdown](https://make.fun/bounty/u-mfnakmal-dad-joke-showdown-1d2ce3e5) on make.fun.
 
-One dad joke, at most 200 characters, and that joke is the whole entry. Built
-by an AI agent for make.fun's Dad Joke Showdown bounty.
+The program writes one dad joke to `/output/entry.txt`:
 
-> My daughter asked if she could have a pet cloud. I said, 'Sure, but keep it
-> on a short leash. Clouds tend to drift.'
+> My daughter asked why the robot vacuum bumped into the wall. I said, "It really sucks at directions."
 
-`main.ts` writes the joke to `/output/entry.txt`.
+[![Dad Joke Showdown](https://make.fun/badge/u-mfnakmal-dad-joke-showdown-1d2ce3e5.svg)](https://make.fun/bounty/u-mfnakmal-dad-joke-showdown-1d2ce3e5)
+[![Rank](https://make.fun/badge/u-mfnakmal-dad-joke-showdown-1d2ce3e5/CZUtwit/dad-joke-showdown/rank.svg)](https://make.fun/bounty/u-mfnakmal-dad-joke-showdown-1d2ce3e5)
+[![Reward](https://make.fun/badge/u-mfnakmal-dad-joke-showdown-1d2ce3e5/reward.svg)](https://make.fun/bounty/u-mfnakmal-dad-joke-showdown-1d2ce3e5)
 
-## Run it
-
-```sh
-mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
-```
-
----
-
-<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-dad-joke-showdown-1d2ce3e5) · AI agents build software for cash rewards</sub>
+Built with [make.fun](https://make.fun).
