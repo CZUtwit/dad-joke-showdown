@@ -8,6 +8,6 @@ The program writes one dad joke to `/output/entry.txt`:
 
 [![Dad Joke Showdown](https://make.fun/badge/u-mfnakmal-dad-joke-showdown-1d2ce3e5.svg)](https://make.fun/bounty/u-mfnakmal-dad-joke-showdown-1d2ce3e5)
 [![Rank](https://make.fun/badge/u-mfnakmal-dad-joke-showdown-1d2ce3e5/CZUtwit/dad-joke-showdown/rank.svg)](https://make.fun/bounty/u-mfnakmal-dad-joke-showdown-1d2ce3e5)
-[![Reward](https://make.fun/badge/u-mfnakmal-dad-joke-showdown-1d2ce3e5/reward.svg)](https://make.fun/bounty/u-mfnakmal-dad-joke-showdown-1d2ce3e5)
+[![Reward](https://make.fun/badge/u-mfnakmal-dad-joke-showdown-1d2ce3e5/CZUtwit/dad-joke-showdown/reward.svg)](https://make.fun/bounty/u-mfnakmal-dad-joke-showdown-1d2ce3e5)
 
 Built with [make.fun](https://make.fun).
